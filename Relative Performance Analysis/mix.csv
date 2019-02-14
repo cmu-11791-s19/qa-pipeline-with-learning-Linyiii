@@ -1,0 +1,729 @@
+reference,answer type,answer,query
+000100,,php,homestead -- laravel homestead is an official pre-packaged vagrant box that provides you a wonderful development-environment without requiring you to install @placeholder hhvm a web server and any other server software on your local machine.homestead runs on any windows mac or linux system and includes the nginx web server php-5 .6 mysql postgres redis memcached and all of the other goodies you need to develop amazing laravel applications .
+001011,,interface,mscapi -- the cryptographic application programming interface ms-capi is an application programming @placeholder included with microsoft windows operating systems that provides services to enable developers to secure windows-based applications using cryptography .
+000101,,audio,web-audio -- web-audio is a javascript api providing low-level low-latency @placeholder playback and manipulation functions in html5 capable web browsers .
+000101,,.net,sharpziplib -- ziplib sharpziplib is a zip gzip tar and bzip2 library written entirely in c for the @placeholder platform .
+000011,,asp.net,sitecore7 .1 -- sitecore is a web content-management-system cms built on microsoft @placeholder .
+001100,,xml,smooks -- smooks is an extensible framework for building applications for processing @placeholder and non xml data csv edi java etc using java .
+001101,,wysiwyg,aloha-editor -- the term aloha-editor refers to the correspondent modern html5 @placeholder editor .
+000100,,c++,openacc -- the openacc application program interface describes a collection of compiler-directives to specify loops and regions of code in standard c @placeholder and fortran to be offloaded from a host cpu to an attached accelerator providing portability across operating systems host cpus and accelerators .
+110100,,s,amazon-firefly -- firefly is amazon s system that allows visual-recognition of real world objects and linkage into amazon @placeholder ecosystem .
+001110,,jquery,jquery-accordion -- an expandable collapsible content pane plugin from @placeholder .
+001101,,javascript,i18next -- i18next is a full-featured i18n @placeholder library for translating your webapplication .
+111100,,open-source,umbraco7 -- umbraco 7 is the seventh stable release of umbraco - an @placeholder content-management-system cms platform for publishing content on the world wide web and intranets .
+100110,,.net,backgroundworker -- backgroundworker is a helper class in @placeholder s system.componentmodel namespace providing a general implementation of the event-based asynchronous pattern to manage a worker thread support cooperative cancellation and report progress .
+001100,,python,ctypes -- ctypes is a python package that wraps c .dll .so libraries in pure @placeholder .
+110111,,java,jdepend -- jdepend is a tool that traverses @placeholder class file directories and generates software package metrics most importantly dependency cycle detection and distance from the main sequence to measure the design quality for java packages .
+100000,,java,jcombobox -- a jcombobox is a @placeholder gui object .
+100110,,s,sequence-points -- points in a program @placeholder execution at which it is guaranteed that all side effects of previous evaluations will have been performed and no side effects from subsequent evaluations have yet been performed .
+110100,,s,sweave -- sweave is a system for combining @placeholder or r code with latex in a single document .
+000100,,javascript,ko.observablearray -- an observablearray is a knockout.js construct similar to a regular array in @placeholder except that it allows for observing changes to the collection e.g .
+001111,,api,annotatedtimeline -- part of the google-visualization graphing @placeholder .
+100000,,s,plsql -- pl sql procedural language structured query language is oracle corporation @placeholder procedural language extension for sql .
+010000,,java,jmf -- jmf stands for the @placeholder media framework .
+000101,,c++,nana -- the nana project is a modern @placeholder library aimed at providing a gui framework for cross-platform programming .
+000111,,database,rmongodb -- rmongodb is a full featured driver for the r language to interface with the mongodb @placeholder .
+000101,,scala,scalafx -- scalafx is a ui dsl written within the @placeholder language that sits on top of javafx 2.0 not to be confused with ingo maier s great work on functional reactive-programming for swing .
+000100,,pdf,jpedal -- jpedal is a commercial java @placeholder library distributed by idr solutions .
+000101,,video,brightcove -- brightcove video cloud is a @placeholder hosting and publishing platform .
+000100,,server,sharepoint2010-bcs -- sharepoint2010-bcs refers to business connectivity services in sharepoint @placeholder 2010 .
+000101,,erlang,rebar3 -- erlang build tool that makes it easy to compile and test @placeholder applications and releases .
+000001,,synchronization,ticoredatasync -- ticoredatasync is an open-source framework enabling cloud-based @placeholder with optional encryption for core-data applications running on both mac os x and ios .
+110100,,s,parallelism-amdahl -- amdahl s law also known as amdahl @placeholder argument is used to find the maximum expected improvement to an overall system when only part of the system is improved .
+000100,,lisp,common-lisp -- common-lisp is a standardized version of the @placeholder programming language intended for production-strength power .
+110000,,web,jqwidget -- jqwidgets is a jquery based framework for building modern responsive @placeholder sites and mobile web-applications that work on any web-connected device .
+000011,,server,virtual-hosts -- virtual-hosts or virtual hosting is a method for hosting multiple domain names with separate handling of each name on a single @placeholder or pool of servers .
+000111,,css,csso -- csso css optimizer is a @placeholder minimizer .
+110000,,web,pandastream -- powerful video-encoding for the @placeholder .
+001111,,drupal,drupal-templates -- theme templates are part of @placeholder s theming system and allow for the customization of drupal sites .
+000010,,php,phpdocumentor2 -- phpdocumentor 2 is a tool that makes it possible to generate documentation directly from your @placeholder source code .
+000100,,qt,qtestlib -- qt test is a framework for unit-testing @placeholder based applications and libraries .
+000011,,ide,xcode6 .1 -- related to the new version of the apple s @placeholder xcode 6.1 .
+000100,,ruby,webmock -- library for stubbing and setting expectations on http requests in @placeholder .
+001101,,json,android-gson -- gson a java serialization library to convert java objects into @placeholder and back to fetch and parse json into java models for android .
+001000,,open-source,zotonic -- zotonic is both a content-management-system and a web framework written in erlang otp anddepends on several @placeholder products like jquery postgresql db e.t.c .
+110000,,java,jongo -- jongo allows to query in @placeholder as in mongo-shell unmarshalling results into java objects by default with jackson .
+000101,,clojure,clojure.test -- unit test framework for @placeholder .
+000101,,visual-studio,vspackage -- vspackages are software modules that extend the @placeholder ide by providing ui elements services projects editors and designers .
+001101,,json,android-gson -- gson a java serialization library to convert java objects into json and back to fetch and parse @placeholder into java models for android .
+000011,,video,uvc -- uvc is a short for usb video device class also usb video class and it is a usb device class that describes devices capable of streaming video like webcams digital camcorders transcoders analog @placeholder converters and still-image cameras .
+000100,,python,zope.interface -- the zope.interface module provides an implementation of object interfaces for @placeholder .
+000010,,ruby,engineyard -- engine yard is a cloud application platform for @placeholder based on amazon-web-services .
+000101,,qt,qpropertyanimation -- the qpropertyanimation class animates @placeholder properties .
+001111,,sql,aggregate-filter -- the filter clause is @placeholder standard syntax to filter rows passed to an aggregate function .
+110100,,.net,microsoft-fakes -- microsoft-fakes is an isolation framework for creating delegate-based test stubs and shims in @placeholder framework applications .
+000111,,gnu,gnu -- this tag is for programming questions related to software and tools provided by the @placeholder gnu s not unix project .
+000111,,gnu,gnu -- this tag is for programming questions related to software and tools provided by the gnu @placeholder s not unix project .
+110111,,server,ibmhttpserver -- ibm http server is a full-featured apache-based web @placeholder that is included with other products such as ibm websphere application server at no charge .
+001000,,android,audiotrack -- audiotrack class in standard @placeholder api for playing back raw audio .
+010000,,java,kryonet -- tcp and udp client-server library for @placeholder .
+000001,,widget,kendo-gauge -- the kendo-gauge is a kendo @placeholder is used to let users quickly understand where a value lies in a certain range .
+000100,,visual-studio,node.js-tools -- ntvs is a free open-source plugin that turns @placeholder into a node.js ide .
+000011,,audio,audio-video-sync -- questions related to synchronization between @placeholder and video during creation transmission reception and playback of content with both audio and video .
+110100,,java,doclet -- doclet programs work with the javadoc tool to generate documentation from code written in @placeholder .
+000001,,video,windows-media-player -- windows-media-player abbreviated wmp is a media-player and media library application developed by microsoft that is used for playing audio @placeholder and viewing images on personal computers running the microsoft windows operating-system as well as on pocket pc and windows mobile-based devices .
+000101,,ruby,fabrication-gem -- fabrication is a fixture replacement library for @placeholder .
+000100,,ruby,active-attr -- activeattr is a set of modules that makes it easy to create plain old @placeholder models with functionality found in orms like activerecord without reinventing the wheel .
+000001,,api,mgo -- mgo pronounced as mango is a mongodb driver for the go language that implements a rich and well tested selection of features under a very simple @placeholder following standard go idioms .
+000100,,javascript,javascript-framework -- a javascript-framework is a library of pre-written @placeholder which allows for easier development of javascript-based applications especially for ajax and other web-centric technologies .
+001111,,drupal,drupal-templates -- theme templates are part of drupal s theming system and allow for the customization of @placeholder sites .
+000010,,api,ansible-awx -- ansible-tower is a gui and rest @placeholder for managing both cloud-based and traditional hybrid ansible deployments .
+001011,,uri,rfc3986 -- a rfc entitled uniform resource identifier @placeholder : generic syntax .
+000101,,javascript,lungojs -- lungojs is a framework powered by html5 css3 and @placeholder for creating mobile web apps.the applications created with it works on all popular platforms ios android blackberry and webos .
+001111,,open-source,opendaylight -- the opendaylight project is a collaborative @placeholder project that aims to accelerate adoption of software-defined networking sdn and create a solid foundation for network functions virtualization nfv for a more transparent approach that fosters new innovation and reduces risk .
+000101,,apache-spark,indexedrdd -- key-value store implementation for @placeholder .
+010100,,java,optaplanner -- optaplanner is according to its website a lightweight embeddable planning engine written in @placeholder .
+001011,,kotlin,kdoc -- kdoc is a documentation-generation system which reads specially formatted comments in @placeholder source code and generates compiled documentation .
+011101,,ruby,ruby-2 .1 -- for issues relating to development in @placeholder version 2.1 .
+000001,,markov,openbugs -- openbugs is a computer software for the bayesian analysis of complex statistical models using @placeholder chain monte carlo mcmc methods .
+000010,,jquery,toggleclass -- the toggleclass method in @placeholder provides a mechanism for adding or removing a class or list of classes by name from selected elements .
+110010,,web,tvm -- the token vending machine tvm is a server-based reference application that serves temporary credentials to remote clients to sign @placeholder requests to amazon-web-services aws .
+110100,,java,generics -- generics are a form of parametric-polymorphism found in a range of languages including .net languages @placeholder and in swift .
+110000,,s,omxplayer -- omxplayer is a video-player specifically made for the raspberry-pi @placeholder gpu .
+001000,,authentication,jwt -- json-web-token jwt pronounced jot is an emerging type of token-based @placeholder used in space-constrained environments such as http authorization headers .
+000100,,bluetooth,bluecove -- open-source java bluetooth api jsr-82 implementation for various @placeholder stacks on windows linux mac osx and windows-mobile devices .
+000010,,http,digest-authentication -- a challenge-response authentication mechanism for @placeholder .
+000100,,qt,qt-necessitas -- necessitas is the codename for the port of @placeholder on the android operating-system and of the user-friendly qt-creator integration with android .
+000100,,gnu,usrp -- the usrp series of software-defined radio devices designed and developed by ettus research are commonly used with @placeholder radio openbts labview and matlab .
+001000,,css,enquire.js -- a lightweight pure javascript library for responding to @placeholder media-queries .
+000101,,matrix,diagonal -- diagonal means either a diagonal @placeholder usually a square matrix in which the entries outside the main diagonal are all zero .
+110001,,java,raw-types -- raw-types are a feature of generics in the @placeholder language .
+000100,,perl,rakudo-star -- rakudo-star is a distribution of rakudo and bundles the rakudo perl 6 compiler the parrot virtual-machine many modules and documentation including the latest draft of a book on @placeholder 6 .
+000101,,jquery,jquery-filer -- jquery.filer - simple html5 file uploader a plugin tool for @placeholder which change completely file input and make it with multiple file selection drag drop support different validations thumbnails icons instant upload print-screen upload and many other features and options .
+100011,,database,liquibase-hibernate -- liquibase plugin for hibernate that lets this be configured as a comparison @placeholder for liquibase commands .
+001000,,open-source,clojars -- clojars is a community maintained repository for @placeholder clojure libraries .
+001010,,javascript-framework,extjs2 -- the december 2007 release of extjs the object oriented @placeholder for creating desktop-like applications .
+110010,,java,jpedal -- jpedal is a commercial @placeholder pdf library distributed by idr solutions .
+000010,,graphics,gouraud -- gouraud shading named after henri gouraud is an interpolation method used in computer @placeholder to produce continuous shading of surfaces represented by polygon meshes .
+000100,,api,google-maps-embed -- the google-maps-embed api lets you add fully functional google-maps or street view panoramas to your website when you don t want to use the javascript @placeholder but want an interactive map that the static maps api can t provide.it uses an iframe to embed a call to the embed api.see the official documentation https : developers.google.com maps documentation embed .
+001000,,boolean,boolean-expression -- a boolean-expression is an expression in a programming language that produces a @placeholder value when evaluated i.e .
+000010,,python,django-adaptors -- django-adaptors is a tool which allow you to transform easily a csv xml file into a @placeholder object or a django model instance .
+000010,,c++,pugixml -- light-weight simple and fast xml parser for @placeholder with xpath support .
+000001,,asp.net,sitecore5 .2 -- sitecore is a web content-management-system cms built on microsoft @placeholder .
+001000,,javascript,fay -- fay is a programming language that forms a proper subset of haskell and which compiles to @placeholder .
+110010,,web,silverstripe -- silverstripe is a free and open-source php @placeholder development framework and content-management-system cms based on the eponymous silverstripe framework .
+110000,,android,gradle-experimental -- the new experimental gradle plugin for @placeholder .
+001100,,javascript,setinterval -- setinterval is a global @placeholder method .
+110000,,web,oauth-2 .0 -- oauth open authorization is an open protocol framework to allow secure api authorization in a simple and standardized way for desktop mobile and @placeholder applications.oauth 2.0 is the second version of the oauth protocol .
+001010,,c++,oolua -- is a c++ binding for lua which is intended to ease the embedding of lua in @placeholder allowing easy access to tables functions and types .
+000001,,audio,audio-video-sync -- questions related to synchronization between audio and video during creation transmission reception and playback of content with both @placeholder and video .
+001001,,google-apps,google-groups-settings -- with the google-apps groups settings api account-level administrators can manage the group settings for your @placeholder account .
+000010,,mysql,mariadb -- mariadb is an open-source database server that offers drop-in replacement functionality for @placeholder .
+001111,,cakephp,cakephp-2 .4 -- this tag relates to the 2.4.x branch of the @placeholder mvc framework .
+110000,,web,serverxmlhttp -- object-model component on windows systems that provides methods and properties that enable you to establish an http connection between files or objects on different @placeholder servers.it s part of msxml services .
+000001,,jquery,oridomi -- oridomi is a small script with optional @placeholder support that creates an effect on images and web fonts that looks like folding paper by using css 3d transforms .
+001111,,oracle,oracle11gr2 -- oracle 11gr2 an rdbms product is the second and terminal release of the @placeholder 11g database .
+000001,,website,groupon -- groupon is a deal-of-the-day @placeholder that features discounted gift certificates usable at local or national retailers .
+000101,,powershell,powershell-studio -- powershell-studio refers to an integrated development-environment ide for @placeholder .
+100010,,api,tinkerpop-blueprint -- blueprints is a property graph model interface @placeholder with provided implementations .
+101100,,ios,uiactionsheet -- uiactionsheet and uiactionsheetdelegate is deprecated in @placeholder 8 .
+000010,,api,falconview -- falconview is a pc based mapping application developed by the georgia tech research institute offering a com @placeholder for integration with other applications .
+001000,,implementation,jsjac -- jsjac is a jabber xmpp client library written in javascript to ease @placeholder of web based jabber xmpp clients .
+000100,,user,listbox -- a graphical user-interface element that allows the @placeholder to select one or more items from a list .
+110010,,web,weboperationcontext -- the weboperationcontext can be used in wcf services to access properties of @placeholder requests and responses .
+000100,,php,gambio -- the gambio webshop system @placeholder based on xt : commerce .
+010000,,web,ckeditor -- ckeditor is a javascript based wysiwyg editor created for use within @placeholder pages .
+000010,,open-source,repmgr -- repmgr is a set of @placeholder tools that helps dbas and system administrators manage a cluster of postgresql databases .
+000100,,user,mouseout -- a mouseout is an event that occurs on an element when the @placeholder removes the cursor from that element .
+000001,,asp.net,application-end -- application-end method called by @placeholder once for the lifetime of the application domain not for each httpapplication instance.it been called once per lifetime of the application before the application is unloaded .
+000001,,cross-platform,qt-jambi -- qt-jambi is a java binding of the @placeholder application framework qt .
+110100,,python,pygame -- pygame is a set of python modules designed for writing video games.use this tag only if you are using the pygame library and not if you have a question about programming a game in @placeholder in general .
+000100,,qt,qdatetime -- a qdatetime is a class from the @placeholder toolkit which provides functions for working with both dates and times .
+001111,,django,django-1 .5 -- django-1 .5 is a version of the @placeholder framework released in february 2013 .
+110000,,web,sinopia -- sinopia is an open-source @placeholder application providing a private npm repository server .
+001101,,eclipse,eclipse-wtp -- the eclipse web tools platform wtp project extends the @placeholder platform with tools for developing web and java-ee applications .
+000100,,javascript,packery -- packery is a pure @placeholder jquery-layout library that intelligently lays out elements so as to fit them into as small a space as possible .
+000001,,file-format,dst-embroidery -- .dst is the tajima design @placeholder used for storing embroidery patterns .
+000100,,user,button -- buttons are simple elements in graphical @placeholder interfaces that take mouse clicks or finger taps on mobile-devices as input .
+100000,,s,facepy -- facepy makes it really easy to interact with facebook @placeholder graph api using python .
+110000,,s,iwrap -- the iwrap is an embedded bluetooth stack for bluegiga @placeholder bluetooth classic modules .
+000101,,xml,xml-simple -- the simple libraries for working with @placeholder in ruby or perl .
+000101,,c++,cpplint -- cpplint is an open-source lint-like tool developed by google designed to ensure that @placeholder code conforms to google s coding-style guides .
+100010,,open-source,openerp -- odoo formerly openerp is a suite of web based @placeholder business apps .
+001000,,widget,kendo-listview -- the kendo-listview is a kendo @placeholder that displays data and offers rich support interacting with data including paging and selection .
+111011,,web,w3c-mobile-checker -- a w3c tool for web developers to check the mobile-friendliness of their web page or @placeholder app .
+000010,,c++,visual-c + + -2005 -- the november 2005 release of microsoft visual-c + + a c and @placeholder compiler for windows also known as the vc8 compiler .
+000100,,django,django-notification -- django-notification is a pluggable @placeholder app for user notification management .
+001001,,server,web-farm-framework -- web-farm-framework is the name of the framework for iis-7 for web @placeholder clustering .
+000100,,qt,qmediaplayer -- the qmediaplayer class part of the @placeholder framwork allows the playing of a media source .
+001010,,markup,bbcode -- bulletin board code is a lightweight @placeholder language used to format posts in many message boards .
+001001,,dom,angular-directive -- at a high level directives are markers on a dom element such as an attribute element name comment or css class that tell angularjs s html compiler compile to attach a specified behavior to that @placeholder element or even transform the dom element and its children .
+001100,,authentication,identity-management -- broad term used for @placeholder and authorization systems .
+110110,,web,web-farm-framework -- web-farm-framework is the name of the framework for iis-7 for @placeholder server clustering .
+000001,,ios,nsurlcache -- nsurlcache is a class that is used in @placeholder developing for caching the responses of the url .
+000101,,lua,oolua -- is a c++ binding for lua which is intended to ease the embedding of @placeholder in c++ allowing easy access to tables functions and types .
+110010,,web,zotonic -- zotonic is both a content-management-system and a @placeholder framework written in erlang otp anddepends on several open-source products like jquery postgresql db e.t.c .
+110010,,web,filepicker.io -- filepicker.io is a full file-management framework which supports @placeholder ios and android platform .
+000100,,django,satchless -- e-commerce python microframework for @placeholder .
+011110,,android,nexus-6p -- the nexus-6p is an @placeholder based smartphone manufactured by huawei .
+001100,,pdf,cam-pdf -- cam : : pdf is a perl library for reading and modifying existing @placeholder files .
+000100,,.net,eto -- eto.forms is a cross-platform desktop and mobile user-interface framework for @placeholder .
+001100,,django,django-filebrowser -- django-filebrowser is a pluggable @placeholder app that allows to manage files through the admin interface .
+111000,,s,airprint -- airprint is the name of apple @placeholder printing framework for ios .
+110101,,java,dcevm -- the dynamic code evolution virtual-machine dce vm is a modification of the @placeholder hotspot tm vm that allows unlimited redefinition of loaded classes at runtime .
+000100,,pdf,pdfrenderer -- an application or api that is capable of drawing a @placeholder to various display mediums computer monitor image files printers .
+010000,,.net,ncrunch -- ncrunch is a continuous testing tool for visual-studio @placeholder .
+001100,,templates,template-meta-programming -- template meta-programming is a meta-programming technique in which @placeholder are used by a compiler to generate temporary source code which is merged by the compiler with the rest of the source code and then compiled .
+000001,,perl-module,mechanize-python -- stateful programmatic web browsing in python after andy lester s @placeholder www : : mechanize .
+000001,,excel-2007,xls -- xls is the file extension for files created using the default format of microsoft excel prior to @placeholder .
+010000,,web,compojure -- compojure is an open-source @placeholder framework for the clojure programming language .
+000001,,std,putchar -- anything related to c or c++ - standard-library functions putchar c or @placeholder : : putchar c++ .
+000101,,s,pygodaddy -- pygodaddy is a 3rd-party client library written in python for site admins and devs to interface with godaddy @placeholder services .
+010100,,c++,boost-locale -- boost.locale is a c++ library that provides high quality localization facilities in a @placeholder way .
+110000,,s,node-walk -- a node port of python @placeholder os.walk .
+001101,,qt,qgraphicspixmapitem -- qgraphicspixmapitem is a class of @placeholder a cross-platform application development framework .
+111011,,web,firefox-browser-api -- the firefox-browser-api is an extension of the iframe element adding functionality to embed a @placeholder browser within a web-app .
+001110,,oracle,tns -- an proprietary oracle networking technology that provides connectivity to @placeholder databases .
+000100,,python,gcloud-python -- google cloud client library for @placeholder - an idiomatic intuitive and natural way for python developers to integrate with google-cloud-platform services like cloud datastore and cloud-storage .
+000100,,html,angular-directive -- at a high level directives are markers on a dom element such as an attribute element name comment or css class that tell angularjs s @placeholder compiler compile to attach a specified behavior to that dom element or even transform the dom element and its children .
+110101,,web,mod-deflate -- the mod-deflate is an apache @placeholder server module that provides the deflate output filter that allows output from your server to be compressed before being sent to the client over the network .
+001111,,ios,parseui -- parseui is a collection of user-interface components which can be used with the parse @placeholder sdk or the parse-android-sdk .
+100000,,web,thymeleaf -- thymeleaf is an xml xhtml html5 template-engine extensible to other formats that can work both in @placeholder and non-web environments .
+000100,,wcf,wcf-security -- questions related to the authentication and authorization services for windows communication foundation @placeholder applications .
+000100,,javascript,jscs -- jscs is a code style checker for @placeholder .
+000100,,authentication,ntlm -- ntlm nt lan manager is a suite of microsoft security protocols that provides @placeholder integrity and confidentiality to users .
+110001,,web,homestead -- laravel homestead is an official pre-packaged vagrant box that provides you a wonderful development-environment without requiring you to install php hhvm a web server and any other server software on your local machine.homestead runs on any windows mac or linux system and includes the nginx @placeholder server php-5 .6 mysql postgres redis memcached and all of the other goodies you need to develop amazing laravel applications .
+001000,,ajax,jquery-forms-plugin -- the jquery form plugin simplifies the process of submitting a form via @placeholder and displaying the results within the current page .
+110000,,web,p5.js -- p5.js is a javascript library that starts with the original goal of processing to make coding accessible for artists designers educators and beginners and reinterprets this for today s @placeholder .
+000101,,azure,azure-autoscaling-block -- microsoft enterprise-library autoscaling application block enables to change the number of role instances of a windows @placeholder cloud service based on a time schedule and or operating parameters .
+000010,,database,occi -- oracle c++ call interface occi is a high-performance and comprehensive api to access the oracle @placeholder .
+110000,,web,http-status-code-503 -- 503 is one of the status codes a @placeholder server can return to a client application when processing a request .
+010000,,s,youtube-data-api -- youtube-data-api used for getting details of youtube contents like playlist playlistitems and video @placeholder details you need to generate a youtube-data-api developer key to access the content available on youtube-data-api .
+000011,,video,uvc -- uvc is a short for usb video device class also usb @placeholder class and it is a usb device class that describes devices capable of streaming video like webcams digital camcorders transcoders analog video converters and still-image cameras .
+011100,,java,lanterna -- a java library easying the job of creating a terminal application in @placeholder by providing an awt swing like stack .
+000101,,.net,easynetq -- easynetq is a simple to use opinionated @placeholder api for rabbitmq .
+010000,,web,mpld3 -- the mpld3 project brings together matplotlib the popular python-based graphing library and d3js the popular javascript library for creating interactive data visualizations for the @placeholder .
+010100,,web,liquid -- liquid is a templating-engine for creating @placeholder pages .
+001101,,javascript,coffeescript -- coffeescript is a language that compiles into @placeholder .
+110001,,web,meta -- meta elements are the html or xhtml meta element used to provide structured metadata about a @placeholder page .
+001101,,css,topcoat -- topcoat is an open-source @placeholder library designed to help developers build web apps with an emphasis on speed .
+001000,,google-maps,google-maps-embed -- the google-maps-embed api lets you add fully functional @placeholder or street view panoramas to your website when you don t want to use the javascript api but want an interactive map that the static maps api can t provide.it uses an iframe to embed a call to the embed api.see the official documentation https : developers.google.com maps documentation embed .
+000001,,authentication,java-security -- java-security technology is set of libraries tools and implementations of commonly used security algorithms mechanisms and protocols including cryptography public-key infrastructure secure communication @placeholder and access-control .
+001101,,xml,openxml -- questions regarding reading and writing of microsoft office open @placeholder files either through direct manipulation of the xml files contained in a zip package or through the microsoft office open xml sdk .
+010000,,java,avian -- avian is a lightweight java virtual-machine jvm and class-library designed to provide a useful subset of @placeholder s features suitable for building self-contained applications .
+001000,,email,email-address -- an email-address identifies an email box to which @placeholder messages are delivered .
+000010,,javascript,mpld3 -- the mpld3 project brings together matplotlib the popular python-based graphing library and d3js the popular @placeholder library for creating interactive data visualizations for the web .
+000101,,ios,uilabel -- the uilabel class implements a read-only text view in @placeholder .
+110000,,web,topcoat -- topcoat is an open-source css library designed to help developers build @placeholder apps with an emphasis on speed .
+001100,,scala,lift -- an open-source web application framework written in @placeholder .
+110000,,web,web-audio -- web-audio is a javascript api providing low-level low-latency audio playback and manipulation functions in html5 capable @placeholder browsers .
+000010,,pygame,pygame -- pygame is a set of python modules designed for writing video games.use this tag only if you are using the @placeholder library and not if you have a question about programming a game in python in general .
+001100,,ios,airprint -- airprint is the name of apple s printing framework for @placeholder .
+000011,,widget,swt -- swt : the standard @placeholder toolkit is a user-interface library for java maintained by the eclipse foundation .
+000101,,youtube,ytplayerview -- ytplayerview is youtube s official ios player helper class which facilitates the playback of @placeholder videos in ios applications .
+000101,,javascript,ima.js -- the ima.js is a application development stack for developing isomorphic applications written in pure @placeholder .
+001111,,youtube,youtube-data-api -- youtube-data-api used for getting details of @placeholder contents like playlist playlistitems and video s details you need to generate a youtube-data-api developer key to access the content available on youtube-data-api .
+110100,,web,martini -- martini is a popular lightweight @placeholder framework for go .
+000100,,django,django-cron -- django-cron lets you run @placeholder python code on a recurring basis proving basic plumbing to track and execute tasks .
+000001,,mozilla,jsctypes -- js-ctypes is a foreign-function library for privileged javascript in @placeholder based applications such as firefox thunderbird or seamonkey .
+110000,,s,jbcrypt -- the java implementation of openbsd @placeholder blowfish password hashing code .
+110000,,s,heapbox -- heapbox is a replacement for jquery @placeholder select element .
+000001,,sql,korma -- korma is a clojure dsl wrapping common @placeholder database manipulation functions .
+000011,,http,http-negotiate -- there are two kinds of content negotiation which are possible in @placeholder : server-driven and agent-driven negotiation .
+000100,,video,fitvids -- a lightweight easy-to-use jquery plugin for fluid width @placeholder embeds .
+000111,,python,pysvn -- pysvn is a library extension and client program for accessing svn repositories in the @placeholder programming language .
+000001,,version-control,smartgit -- smartgit hg - is a cross-platform visual client @placeholder system vcs for git mercurial and subversion that can run on windows linux and mac os .
+000101,,python,rpy2 -- rpy is a very simple yet robust @placeholder interface to the r programming language .
+001000,,digits,phone-number -- a telephone number or phone-number is a sequence of @placeholder used to call from one telephone line to another in a public switched telephone network pstn .
+001100,,templates,template-specialization -- template-specialization refers to programmer-generated explicit specialization of @placeholder for specific types .
+000101,,audio,pydub -- pydub is a python library for @placeholder manipulation .
+000101,,erlang,reltool -- reltool is an application in @placeholder otp for creating releases and target systems .
+000100,,http,serverxmlhttp -- object-model component on windows systems that provides methods and properties that enable you to establish an @placeholder connection between files or objects on different web servers.it s part of msxml services .
+001010,,maf,oracle-maf -- oracle s mobile-application framework @placeholder is a hybrid mobile framework which leverages java html5 and javascript to deliver a complete mvc framework with declarative user-interface definition device features integration and built-in security .
+001111,,ip,arp -- arp is a protocol for resolution of network layer addresses such as @placeholder into link layer addresses such as mac addresses .
+001111,,adobe,flex -- apache flex not to be confused with flexbox is a framework for developing rich internet applications that run in flash-player or @placeholder air .
+010101,,web,mass-assignment -- a feature of server-side @placeholder framework such as ruby-on-rails in which all the parameters of an http-request are assigned to variables .
+110000,,web,jsjac -- jsjac is a jabber xmpp client library written in javascript to ease implementation of @placeholder based jabber xmpp clients .
+001010,,web,mlphp -- mlphp is a php api for marklogic that makes it easy to store documents manage document metadata and create sophisticated search queries on a @placeholder server running php version 5.4 or greater .
+010000,,java,task -- a task is an abstraction that is used to work with concurrency it can denote operation that should be executed concurrently with the rest of a program.a task is a concurrent thread of execution in ada and represents an asynchronous operation in .net also it corresponds to threads in @placeholder .
+001000,,video,audio-video-sync -- questions related to synchronization between audio and @placeholder during creation transmission reception and playback of content with both audio and video .
+110100,,web,watin -- watin aims to bring you an easy way to automate @placeholder testing with internet-explorer and firefox using .net .
+001101,,scala,scalatra -- scalatra is a tiny @placeholder web framework inspired by sinatra .
+000001,,orm,waterline -- waterline is an adapter-based @placeholder for node .
+001101,,android,mediacodec -- mediacodec is a class from the package android.media of @placeholder api that can be used to access low-level native media codec i.e .
+110000,,web,firebreath -- firebreath is a c++ framework for creating @placeholder browser plugins not extensions .
+111110,,web,iis -- internet information services iis is a @placeholder server created by microsoft for use with microsoft windows .
+001111,,wcf,ierrorhandler -- in .net allows an implementer to control the fault message returned to the caller from a @placeholder service and optionally perform custom error processing such as logging .
+001000,,nfc,ndef -- the nfc data exchange format ndef specification is a common data format for @placeholder forumdevices and nfc forum tags .
+110001,,s,skcropnode -- an skcropnode crops the pixels drawn by its children so that only some of the pixels are rendered to the parent @placeholder framebuffer .
+000101,,haskell,haskell-mode -- the haskell-mode package is a set of major modes for emacs for writing haskell code and working with @placeholder projects .
+000111,,web-services,soap1 .2 -- soap 1.2 refers to the latest version of the simple open access protocol - a protocol used in exchanging structured information through @placeholder .
+110100,,web,aida -- aida web is a smalltalk @placeholder framework and application server .
+001011,,server,iis -- internet information services iis is a web @placeholder created by microsoft for use with microsoft windows .
+101010,,open-source,odoo-9 -- odoo is a suite of @placeholder business apps written in python and released under the agpl license .
+001111,,xml,oxm -- object xml mapping or o x mapping for short is the act of converting an @placeholder document to and from an object .
+000100,,database,litedb -- a free open-source embedded nosql @placeholder for .net .
+100100,,s,picasa -- with picasa and picasa webalbums from google a user can manage digital photo @placeholder offline picasa and online picasa webalbums .
+100000,,s,emmet -- emmet previously known as zen coding is a web-developer @placeholder toolkit that can greatly improve your html css workflow .
+000101,,jquery,raty -- raty is a plugin for @placeholder that displays interactive star-ratings .
+111000,,web,shiny-server -- shiny-server is a server program that makes shiny applications available over the @placeholder .
+000001,,api,direct3d11 -- direct3d is part of microsoft s directx application programming interface @placeholder which performs 3d graphics rendering in games simulations etc .
+000010,,c++,omniorb -- omniorb is a free corba orb for @placeholder and python .
+111101,,s,alertdialogpro -- this project can make it easy to theme and custom android @placeholder dialog .
+100111,,.net,fxcop -- microsoft s free static-analysis tool for analyzing @placeholder managed code assemblies .
+000010,,rename,mv -- mv is the unix command to @placeholder or move a file or directory .
+110000,,web,google-adwords -- google-adwords is an online advertising service that enables advertisers to compete to display brief advertising copy to @placeholder users based in part on keywords predefined by the advertisers that might link the copy to the content of web pages shown to users .
+000111,,facebook,facepy -- facepy makes it really easy to interact with @placeholder s graph api using python .
+000001,,hadoop,azkaban -- azkaban is a batch workflow job scheduler created at linkedin to run their @placeholder jobs .
+000010,,css,angular-directive -- at a high level directives are markers on a dom element such as an attribute element name comment or @placeholder class that tell angularjs s html compiler compile to attach a specified behavior to that dom element or even transform the dom element and its children .
+001001,,operating-system,smartos -- smartos is an open-source unix-like @placeholder .
+000101,,open-source,squeak -- squeak is a modern @placeholder implementation of the smalltalk language with a history of being very easy to port across platforms .
+000101,,.net,u2netdk -- u2netdk is the short name for u2 toolkit for @placeholder .
+000100,,open-source,oh-my-zsh -- oh-my-zsh is a popular @placeholder customization library for the zsh terminal shell .
+000100,,php,kohana-3 -- kohana-3 is a hmvc hierarchical model-view-controller @placeholder framework that places security scalability and rapid development at its forefront .
+001100,,sql-server,sql-server-2008 -- use this tag for questions specific to the 2008 version of microsoft s @placeholder .
+000100,,database,mysqlimport -- the mysqlimport client provides a command-line interface for the mysql @placeholder to the load-data-infile sql statement .
+110110,,s,memory-pool -- memory pools also called fixed-size blocks allocation is the use of pools for memory-management that allows dynamic-memory-allocation comparable to malloc or c++ @placeholder operator new .
+000001,,continuous-integration,jenkins-workflow -- problems and questions when using the pipeline formerly known as workflow plugin suite for jenkins @placeholder .
+000001,,qt,qeventloop -- the qeventloop class part of the @placeholder framework provides a means of entering and leaving an event-loop .
+110100,,java,jsfunit -- jsfunit is a test framework for @placeholder serverfaces .
+001010,,open-source,snakes -- the snakes toolkit is an @placeholder python library for implementing petri-net models .
+001000,,widget,kendo-tooltip -- the kendo-tooltip is a kendo @placeholder that customizable and themeable tooltip .
+000011,,video,uvc -- uvc is a short for usb video device class also usb video class and it is a usb device class that describes devices capable of streaming @placeholder like webcams digital camcorders transcoders analog video converters and still-image cameras .
+000001,,sharepoint,sharepoint2010-bcs -- sharepoint2010-bcs refers to business connectivity services in @placeholder server 2010 .
+000100,,python,gcloud-python -- google cloud client library for python - an idiomatic intuitive and natural way for @placeholder developers to integrate with google-cloud-platform services like cloud datastore and cloud-storage .
+001011,,structured-data,extraction -- data-extraction is the act or process of retrieving data out of usually unstructured or poorly @placeholder sources for further data-processing or data-storage data-migration .
+000100,,vim,vim-airline -- lean mean status tabline for @placeholder that s light as air .
+000101,,facebook,facebook -- facebook platform lets developers integrate their apps directly into the @placeholder social-networking service .
+000100,,excel,jexcelapi -- java excel api jexcelapi - a java-api to read-write and modify @placeholder spreadsheets .
+000100,,perl,rakudo-star -- rakudo-star is a distribution of rakudo and bundles the rakudo @placeholder 6 compiler the parrot virtual-machine many modules and documentation including the latest draft of a book on perl 6 .
+001000,,web,manos -- manos is an easy to use easy to test high performance c @placeholder application framework that stays out of your way and makes your life ridiculously simple .
+110010,,web,constantcontact -- a self-service email marketing @placeholder site .
+000101,,video,ffdshow -- ffdshow is directshow and vfw codec for decoding encoding many @placeholder and audio formats including divx and xvid movies using libavcodec xvid and other opensourced libraries with a rich set of postprocessing filters .
+111011,,web,w3c-mobile-checker -- a w3c tool for web developers to check the mobile-friendliness of their @placeholder page or web app .
+100000,,open-source,hortonworks-data-platform -- use for questions related to the hortonworks-data-platform hdp an @placeholder apache hadoop data platform .
+000100,,javascript,mxgraph -- mxgraph is an interactive @placeholder html 5 diagramming library with full fallback support for ie 6-8 .
+000011,,ios,core-animation -- core-animation is apple s framework for performing hardware-accelerated animation of display elements on the mac and @placeholder devices .
+001100,,json,jsonserializer -- the jsonserializer enables to control how objects are encoded into @placeholder .
+110111,,java,objectinputstream -- the java objectinputstream deserialization class from the @placeholder standard-library .
+100000,,s,pfimageview -- an image view that downloads and displays remote image stored on parse @placeholder server .
+000001,,webpack,gulp-webpack -- gulp-webpack allows you to import your @placeholder config into a gulp task .
+110100,,java,java-mission-control -- java-mission-control is an advanced set of tools that enables efficient and detailed analysis of the extensive of data collected by @placeholder flight recorder .
+000101,,server,connection-refused -- message received for different reasons when trying unsuccessfully to connect to a @placeholder .
+101100,,user,android-viewpager -- a viewgroup that manages the layout for the child views the @placeholder can swipe between .
+000001,,laravel,way-generators -- tag for the popular jeffrey way @placeholder generators .
+110000,,java,swt -- swt : the standard widget toolkit is a user-interface library for @placeholder maintained by the eclipse foundation .
+000101,,android,apktool -- apktool is a tool for reverse-engineering 3rd party closed binary @placeholder apps .
+001000,,ios,aurasma -- aurasma is an augmented-reality platform for @placeholder and android devices .
+000100,,javascript,javascript-1 .8 -- version 1.8 of the @placeholder language .
+000100,,server,terminal-server -- a terminal-server also referred to as a serial @placeholder or console server network access server enables organizations to connect devices with an rs-232 rs-422 or rs-485 serial interface to a local area network lan .
+001000,,open-source,mailman -- mailman is a python-based @placeholder platform for managing email lists and discussion groups .
+000001,,open-source,avogadro -- avogadro is a popular @placeholder program to view and edit molecules .
+000011,,embed,google-maps-embed -- the google-maps-embed api lets you add fully functional google-maps or street view panoramas to your website when you don t want to use the javascript api but want an interactive map that the static maps api can t provide.it uses an iframe to embed a call to the @placeholder api.see the official documentation https : developers.google.com maps documentation embed .
+110110,,web,grid.mvc -- grid.mvc adds functionality for creating gridview controls in your asp.net-mvc-3 4 @placeholder application .
+000111,,node.js,appjs -- appjs is an open-source sdk to develop desktop applications using @placeholder and the chromium-embedded framework .
+010000,,java,android-gson -- gson a java serialization library to convert java objects into json and back to fetch and parse json into @placeholder models for android .
+110010,,web,goinstant -- goinstant is a javascript api for adding realtime collaborative experiences into any mobile or @placeholder application .
+110101,,java,cup -- cup is a parser-generator for @placeholder .
+000100,,database,phppgadmin -- phppgadmin is a fully functional web-based administration utility for a postgresql @placeholder server .
+000111,,qt,qaction -- the qaction class part of the @placeholder framework provides an abstract user-interface action that can be inserted into widgets .
+110101,,java,jni -- the java native interface jni gives both the ability for jvm implementations to run system native-code and the ability for native-code to run @placeholder code by creating new jvm instances .
+110000,,java,ibatis -- ibatis is an object-relational mapping framework for @placeholder .
+000101,,cakephp,cakephp-1 .2 -- this tag relates to the 1.2.x branch of @placeholder mvc framework .
+001110,,eclipse,eclipse-indigo -- indigo is the code name for @placeholder version 3.7 that was released on june 22 2011 .
+110110,,web,xhtml2 -- xhtml 2 is a general-purpose markup language designed to represent documents for a wide range of purposes across the world wide @placeholder .
+001111,,cakephp,cakephp-2 .1 -- this tag relates to the 2.1.x branch of the @placeholder mvc framework .
+001000,,css,emmet -- emmet previously known as zen coding is a web-developer s toolkit that can greatly improve your html @placeholder workflow .
+110100,,java,apache-commons-beanutils -- provides dynamic access to @placeholder bean object properties without compiled-in knowledge of the property getter and setter methods to be called .
+000101,,video,gopro -- gopro cameras are high-def @placeholder cameras usually used in sports and action videography .
+000100,,excel,xls -- xls is the file extension for files created using the default format of microsoft @placeholder prior to excel-2007 .
+001111,,django,django-1 .7 -- django-1 .7 is the version of the @placeholder framework released september 2014 .
+000101,,user,spec-ui -- spec is a simple-framework for describing @placeholder interfaces .
+000001,,code-review,rietveld -- rietveld is a web-based collaborative @placeholder tool for subversion and released as open-source written by guido van rossum to run on google s cloud service .
+000100,,s,barrage -- barrage script is used in miosoft @placeholder barrage service and is designed to make it possible to concisely define and detect complex patterns in streaming and sensor data .
+000100,,s,random-js -- a random number generator library for javascript inspired primarily by c++ 11 @placeholder random .
+110100,,web,flask-extensions -- flask-extensions are pluggable helper libraries packages which add commonly used @placeholder application functionalities to a flask application .
+001101,,javascript,uglifyjs -- uglifyjs is a general-purpose @placeholder parser compressor beautifier toolkit .
+000011,,node.js,node.js-tools -- ntvs is a free open-source plugin that turns visual-studio into a @placeholder ide .
+110111,,web,dynamic-websites -- a dynamic website consists of dynamic @placeholder pages which are web pages whose construction is controlled by an application server processing server-side scripts .
+110001,,web,homestead -- laravel homestead is an official pre-packaged vagrant box that provides you a wonderful development-environment without requiring you to install php hhvm a @placeholder server and any other server software on your local machine.homestead runs on any windows mac or linux system and includes the nginx web server php-5 .6 mysql postgres redis memcached and all of the other goodies you need to develop amazing laravel applications .
+001011,,nunit,nunit-2 .5 -- for issues relating creating and running unit tests using @placeholder version 2.5 .
+000001,,website,transloadit -- transloadit handles file uploading file processing for your @placeholder or app .
+010100,,javascript,canvasjs -- canvasjs is an easy to use html5 @placeholder charting library built on canvas element .
+111110,,ruby,bundler -- bundler is a tool that makes it easier to keep track of what @placeholder gems and what versions of those gems an application depends upon .
+000001,,scala,context-bound -- context bounds were introduced in @placeholder 2.8.0 and are typically used with the so-called type class pattern a pattern of code that emulates the functionality provided by haskell type classes though in a more verbose manner .
+000111,,jquery,jquery-timing -- timing a jquery core pluginintroducing the deferred @placeholder chain .
+101001,,user-interface,sapui5 -- note : this tag sapui5 covers both the dec 2013 open sourced version of the toolkit commonly known as openui5 and also the original licensed version sapui5 .the sap ui development toolkit for html5 sapui5 is a @placeholder technology that is used to build and adapt client applications .
+000001,,database,dataadapter -- dataadapter is a .net framework class that facilitates communication between a datatable and a @placeholder .
+000010,,real-time,amazon-kinesis -- amazon-kinesis is a fully managed service for @placeholder processing of streaming data at massive scale .
+001000,,code-review,git-review -- git-review is a cli tool for git gerrit that facilitates communication with gerrit @placeholder when using command-line .
+000101,,xml,pugixml -- light-weight simple and fast @placeholder parser for c++ with xpath support .
+100001,,s,avian -- avian is a lightweight java virtual-machine jvm and class-library designed to provide a useful subset of java @placeholder features suitable for building self-contained applications .
+000010,,html,tablednd -- tablednd is a jquery plug-in to drag-and-drop rows in @placeholder tables .
+001100,,qt,qiodevice -- the qiodevice class is the base interface class of all i o devices in @placeholder .
+000100,,pdf,pdf-form -- pdf can contain interactive forms that allow users to enter information to be stored in the @placeholder .
+001000,,java,portletbridge -- portlet bridge acts as an translation engine between portal environment and java web framework to allow portlet development in desired @placeholder framework and not in portal technology itself .
+110110,,web,portletbridge -- portlet bridge acts as an translation engine between portal environment and java @placeholder framework to allow portlet development in desired java framework and not in portal technology itself .
+000101,,matrix,diagonal -- diagonal means either a diagonal matrix usually a square @placeholder in which the entries outside the main diagonal are all zero .
+110010,,web,adfs -- active-directory federation services v2 .0 adfs for short is a standards based @placeholder single sign-on federated-identity which implements claims based authentication across forests .
+000100,,javascript,javascript-injection -- javascript-injection is a process by which we can insert and use our own @placeholder code in a page .
+110111,,web,dart-webui -- web ui lets you build @placeholder apps as-if you had a browser from the future .
+001000,,spreadsheet,excel-2003 -- the excel-2003 tag is used for referencing the excel version 2003 @placeholder application from microsoft .
+001100,,ruby,rails-geocoder -- geocoder is a complete geocoding solution for @placeholder .
+111011,,web,w3c-mobile-checker -- a w3c tool for @placeholder developers to check the mobile-friendliness of their web page or web app .
+001000,,sql,clojureql -- clojureql is an alternative @placeholder library for clojure .
+000011,,embed,google-maps-embed -- the google-maps-embed api lets you add fully functional google-maps or street view panoramas to your website when you don t want to use the javascript api but want an interactive map that the static maps api can t provide.it uses an iframe to @placeholder a call to the embed api.see the official documentation https : developers.google.com maps documentation embed .
+001011,,web-applications,titanium-mobile -- a javascript-based platform to develop native hybrid and mobile @placeholder from a single codebase .
+110110,,s,direct3d11 -- direct3d is part of microsoft @placeholder directx application programming interface api which performs 3d graphics rendering in games simulations etc .
+001000,,server,dynamic-websites -- a dynamic website consists of dynamic web pages which are web pages whose construction is controlled by an application @placeholder processing server-side scripts .
+001111,,django,django-extensions -- django-extensions is a pluggable @placeholder app that provides a collection of custom extensions and tools .
+110100,,web,gwtp -- gwtp or gwt-platform is a framework to facilitate the development of large applications for the google @placeholder toolkit gwt .
+100100,,s,unity3d-mecanim -- mecanim is the unity game-engine @placeholder animation tool which includes retargetable animations full control of animation weights at runtime event calling from within the animation playback sophisticated state machine hierarchies and transitions blend shapes for facial animations and more .
+001000,,email,email-address -- an email-address identifies an @placeholder box to which email messages are delivered .
+001111,,solr,dih -- the dataimporthandler is a @placeholder contrib that provides a configuration driven way to import this data into solr in both full builds and using incremental delta imports .
+001000,,dependencies,maven-war-plugin -- the war plugin is responsible for collecting all artifact @placeholder classes and resources of the web application and packaging them into a web application archive .
+001100,,javascript,tween.js -- tweenjs is a simple tweening library for use in @placeholder .
+001100,,qt,qt-jambi -- qt-jambi is a java binding of the cross-platform application framework @placeholder .
+000001,,scripting-language,maxscript -- maxscript is the built-in @placeholder in autodesk 3ds max .
+100110,,xml,xsd -- xsd generally refers to a document written in the w3c xml schema format containing a description of a particular type of @placeholder document .
+110111,,web,dynamic-websites -- a dynamic website consists of dynamic web pages which are @placeholder pages whose construction is controlled by an application server processing server-side scripts .
+110000,,s,xcode4 .1 -- the july 2011 release of xcode apple @placeholder integrated development-environment ide for for its mac os x and ios platforms .
+110100,,java,spring -- the spring framework is an open-source framework for application development on the @placeholder platform .
+111110,,python,py2exe -- py2exe is a python extension that converts @placeholder scripts to windows executables .
+010110,,web,cuba -- cuba is a ruby microframework for @placeholder development .
+001111,,delphi,lazarus -- lazarus is an open-source multiplatform rad environment for the free pascal compiler in the spirit of @placeholder with which it has a fairly high degree of compatibility.see http : lazarus.freepascal.org .
+001011,,operating-system,ios8 -- ios 8 is the eighth version of apple s ios mobile @placeholder .
+110100,,java,hazelcast -- hazelcast is an open-source in-memory data grid platform for @placeholder .
+001100,,android,proximitysensor -- one of the several sensors present on an @placeholder device .
+010101,,javascript,definitelytyped -- the definitelytyped open-source project adds typescript interfaces and definitions for users to compile against when using popular @placeholder libraries from their typescript code .
+110111,,database,database-schema -- a description of the structure of the database - including the structure of the tables columns constraints views etc etc . . .that make up the database.normally defined in text generally sql-in an rdbs the schema describes the complete blueprint for the database defining everything about the @placeholder except that data itself .
+110000,,web,plunker -- plunker is an online community for creating collaborating on and sharing @placeholder development ideas .
+000101,,audio,caf -- caf core-audio format is a container @placeholder file-format developed by apple .
+001100,,qt,qvector -- the qvector class part of the @placeholder framework is a template class that provides a dynamic array .
+000001,,binary,python-bin -- use it for any integer to @placeholder conversion in python .
+111100,,java,lightadmin -- pluggable crud administration ui library for @placeholder web-applications powered by spring-boot .
+000110,,audio,ffserver -- ffserver is a streaming server for both @placeholder and video .
+000001,,html,firebug -- firebug is a firefox extension which allows the debugging editing and monitoring of any website s css @placeholder dom javascript network traffic and cookies.you should just use this tag in case the question is directly related to firebug itself and not a website you are debugging with firebug .
+000110,,android,aurasma -- aurasma is an augmented-reality platform for ios and @placeholder devices .
+000100,,jquery,jquery-1 .3.2 -- for issues relating to using @placeholder version 1.3.2 .
+001000,,archive,tarfile -- either a tar archive file or a python-module used to handle tar @placeholder files .
+000101,,haskell,haskell-mode -- the haskell-mode package is a set of major modes for emacs for writing @placeholder code and working with haskell projects .
+000011,,css,angular-ui-bootstrap -- a set of angularjs directives based on twitter-bootstrap s markup and @placeholder .
+001111,,eclipse,tycho -- tycho is a maven-extension for building @placeholder artifacts : eclipse plug-ins osgi bundles features p2 repositories and rcp applications eclipse distributions .
+011111,,ruby,image-science -- the image-science gem is a small @placeholder library for basic image manipulations common to web-applications such as cropping resizing and thumb-nailing .
+000100,,firefox,firefox-9 -- version 9 of the mozilla @placeholder browser .
+000101,,.net,asna-visual-rpg -- asna s visual rpg is a first class @placeholder citizen that produces verifiable .net assemblies .
+100000,,s,gnupg -- gnu privacy guard is the gnu project @placeholder complete and free implementation of the openpgp standard as defined by rfc4880 .
+000010,,open-source,vtigercrm -- vtiger crm refers to both cloud and @placeholder versions of the crm application offered by the company vtiger .
+001001,,zsh,oh-my-zsh -- oh-my-zsh is a popular open-source customization library for the @placeholder terminal shell .
+110100,,java,numberformatexception -- a numberformatexception occurs in @placeholder code when a programmer tries to convert a string into a number and the conversion fails .
+010000,,s,uialertview -- uialertview a class part of apple @placeholder uikit framework is used to display an alert to the user .
+010000,,web,restxq -- restxq is an api which provides xquery-3 .0 annotations and functions in order to facilitate the use of xquery as server-side processing language for @placeholder application development .
+100000,,s,onscroll -- the onscroll is html dom event occurs when an element @placeholder scrollbar is being scrolled .
+001100,,ios,mkannotationview -- mkannotationview is part of apple s map kit framework for developing @placeholder applications .
+011101,,database,database-backups -- database-backups are intended to preserve data by serializing @placeholder tables to a text format or exporting them to a binary format .
+000010,,hosting,brightcove -- brightcove video cloud is a video @placeholder and publishing platform .
+001000,,android,android-navigationview -- one of the features of android design support library which is bringing a number of important material-design components to all developers and to all @placeholder 2.1 or higher devices.navigation drawer enables your app having easy ux to navigate particularly for first time users.navigationview provides the framework for developers easier to establish navigation-drawer ui .
+000100,,qt,qlocalsocket -- qlocalsocket is a class in @placeholder framework to create local sockets mostly used for ipc .
+000001,,numpy,numexpr -- numexpr is a fast numerical expression evaluator for @placeholder .
+000101,,email,hotmail -- windows-live hotmail is a free web-based @placeholder service operated by microsoft as part of windows-live .
+001011,,version-control,mercurial-subrepos -- questions related to the subrepository feature in the mercurial distributed @placeholder system .
+001011,,graphics,opengl-es -- subset of the opengl 3d @placeholder api designed for embedded devices such as mobile-phones .
+110010,,web,bugsnag -- bugsnag is an automated crash detection platform for @placeholder and mobile applications .
+000101,,xml,xpath-2 .0 -- use this tag for questions specific to @placeholder path language xpath version 2.0 .
+000001,,xml,gpx -- gpx the gps exchange format is a light-weight @placeholder data format for the interchange of gps data.source : http : www.topografix.com gpx.asp .
+000011,,toolkit,gwtp -- gwtp or gwt-platform is a framework to facilitate the development of large applications for the google web @placeholder gwt .
+000011,,prolog,clpfd -- clp fd which stands for constraint logic-programming over finite domains implements declarative integer-arithmetic in @placeholder systems .
+001000,,ios,addressbookui -- the address book ui framework for @placeholder provides controllers that facilitate displaying editing selecting and creating records in the address book database .
+010000,,web,sql-server-ce-4 -- microsoft sql-server compact version 4 is a sql-server embedded database for building standalone and occasionally connected applications for mobile-devices desktops and @placeholder clients .
+000100,,pdf,icepdf -- questions related to icepdf an open-source java @placeholder engine for viewing printing and manipulating pdf documents .
+001110,,eclipse,eclipse-rap -- the eclipse remote application platform lets you build rich ajax-enabled web-applications by using the @placeholder development model .
+011101,,database,database-tuning -- deals with optimizing the performance of a @placeholder .
+001000,,javascript,async.js -- a module with functions for working asynchronously with @placeholder that can be used both in nodejs and in the browser .
+000100,,s,beautify-ios -- beautify-ios is a framework that enhances apple @placeholder uikit controls re-rendering them to give you much more control over their visual appearance .
+110110,,web,kudu -- kudu allows git-push deployment for .net based @placeholder projects .
+100000,,s,class -- a template for creating new objects that describes the common state @placeholder and behavior s .
+000010,,audio,pitch-tracking -- pitch-tracking is the process of finding the dominant frequency of an @placeholder signal .
+010000,,web,cappuccino -- cappuccino is an objective-j framework for developing modern applications which run in a @placeholder browser .
+110000,,web,windmill -- windmill is a web testing tool designed to let you painlessly automate and debug your @placeholder application .
+000010,,sap,sapui5 -- note : this tag sapui5 covers both the dec 2013 open sourced version of the toolkit commonly known as openui5 and also the original licensed version sapui5 .the @placeholder ui development toolkit for html5 sapui5 is a user-interface technology that is used to build and adapt client applications .
+000010,,snmp,mib -- a mib is an acronym for management information base in use with the @placeholder protocol .
+000100,,c++,htmlcxx -- htmlcxx is a simple non-validating css1 and html parser for @placeholder .
+110110,,database,nosql -- nosql sometimes expanded to not only sql is a broad class of @placeholder management systems that differ from the classic model of the relational-database management system rdbms in some significant ways .
+111100,,s,s-plus -- s-plus was a commercial object-oriented implementation of the @placeholder programming language owned by tibco software inc .
+000101,,lua,oolua -- is a c++ binding for @placeholder which is intended to ease the embedding of lua in c++ allowing easy access to tables functions and types .
+010000,,java,oracle-maf -- oracle s mobile-application framework maf is a hybrid mobile framework which leverages @placeholder html5 and javascript to deliver a complete mvc framework with declarative user-interface definition device features integration and built-in security .
+000100,,excel,excel-2003 -- the excel-2003 tag is used for referencing the @placeholder version 2003 spreadsheet application from microsoft .
+011101,,android,android-sdk-1 .6 -- for issues relating to developing with the @placeholder sdk version 1.6 .
+110100,,web,feathersjs -- feathers is a library that extends express - one of the most popular @placeholder frameworks for nodejs - with the ability to easily create shared restful web-services and real-time apis using socketio and other websocket libraries .
+010000,,web,screeps -- screeps is a javascript based programmable @placeholder browser mmo rts .
+000100,,pdf,pdftk -- a simple gpl-licensed command-line tool for manipulating @placeholder documents .
+001011,,fonts,fontfamily -- font-family is a css property that applies @placeholder and generic font families prioritised by the order they are listed to a given or selected element .
+000010,,c++,using -- using is a keyword in some programming-languages @placeholder c vb.net haxe .
+000100,,c++,fltk -- fltk pronounced fulltick is a cross-platform @placeholder gui toolkit for unix linux x11 microsoft windows and mac os x .
+110100,,s,lis -- the longest increasing subsequence problem is to find a subsequence of a given sequence in which the subsequence @placeholder elements are in sorted order lowest to highest and in which the subsequence is as long as possible .
+000010,,smalltalk,pharo -- pharo is an open-source @placeholder environment .
+001111,,.net,unity-application-block -- the unity-application-block unity is a lightweight extensible dependency-injection container for @placeholder with support for interception .
+000011,,video,uvc -- uvc is a short for usb @placeholder device class also usb video class and it is a usb device class that describes devices capable of streaming video like webcams digital camcorders transcoders analog video converters and still-image cameras .
+000100,,clojure,clojureql -- clojureql is an alternative sql library for @placeholder .
+010100,,ios,ios8 -- ios 8 is the eighth version of apple s @placeholder mobile operating-system .
+001101,,.net,nmath -- centerspace s nmath library for mathematical calculations on the @placeholder framework .
+001111,,.net,.net-1 .1 -- the 1.1 version of the @placeholder framework .
+010101,,java,jini -- jini aka apache river is a soa programming model that extends @placeholder to create secure distributed systems consisting of clients and services .
+001001,,dom,angular-directive -- at a high level directives are markers on a @placeholder element such as an attribute element name comment or css class that tell angularjs s html compiler compile to attach a specified behavior to that dom element or even transform the dom element and its children .
+001100,,facebook,facebook-canvas -- facebook-canvas is the application environment for 3rd party games applications that live within @placeholder in a framed environment .
+001001,,arrays,array-merge -- array-merge means elements of one or more @placeholder will be merged together into a single array .
+000001,,postgresql,phppgadmin -- phppgadmin is a fully functional web-based administration utility for a @placeholder database server .
+000011,,toolkit,qdatetime -- a qdatetime is a class from the qt @placeholder which provides functions for working with both dates and times .
+001000,,interface,rmongodb -- rmongodb is a full featured driver for the r language to @placeholder with the mongodb database .
+000100,,perl,perl5 .18 -- questions pertaining to features introduced in @placeholder v5 .18 .
+101111,,.net,cqlinq -- cqlinq is a linq-like query language used by ndepend to reflectively analyze @placeholder source code using the ndepend tool .
+001101,,node.js,restify -- restify is a module for use with @placeholder that facilitates the creation of rest web-services .
+000100,,xml,celementtree -- celementtree is an xml toolkit to parse a document-style @placeholder file .
+000101,,.net,command-line-parser -- the command-line-parser library offers to @placeholder clr applications a clean and concise api for manipulating command-line-arguments and related tasks .
+010000,,java,eclipse-mat -- the eclipse-memory-analyzer is a fast and feature-rich @placeholder heap analyzer that helps you find memory-leaks and reduce memory consumption .
+011000,,web,oridomi -- oridomi is a small script with optional jquery support that creates an effect on images and @placeholder fonts that looks like folding paper by using css 3d transforms .
+000100,,sql-server,sql-server-ce-4 -- microsoft sql-server compact version 4 is a @placeholder embedded database for building standalone and occasionally connected applications for mobile-devices desktops and web clients .
+001011,,content-management-system,umbraco7 -- umbraco 7 is the seventh stable release of umbraco - an open-source @placeholder cms platform for publishing content on the world wide web and intranets .
+000100,,database,virtual-column -- a column that is not existing in a table of the @placeholder but that is calculated at access time .
+000101,,emacs,rinari -- rinari is an emacs minor mode that is aimed towards making @placeholder into a top-notch ruby and rails development-environment .
+010101,,python,dronekit-python -- dronekit-python is for questions on the @placeholder library for the dronekit set of apis for drones from 3d robotics .
+010100,,ios,ios-3.x -- for issues relating to using @placeholder version 3.x .
+000001,,ocaml,ocp-build -- ocp-build is a simple tool to build @placeholder packages .
+000100,,server,terminal-server -- a terminal-server also referred to as a serial server or console @placeholder network access server enables organizations to connect devices with an rs-232 rs-422 or rs-485 serial interface to a local area network lan .
+010010,,java,icepdf -- questions related to icepdf an open-source @placeholder pdf engine for viewing printing and manipulating pdf documents .
+100101,,php,phpcodesniffer -- php codesniffer is a @placeholder pear package that can be used to tokenise php javascript and css files and to detect violations of a defined set of coding standards .
+000100,,clojure,compojure -- compojure is an open-source web framework for the @placeholder programming language .
+000001,,graphics,cgcontextdrawimage -- cgcontextdrawimage is available in osx and ios which helps to draws an image into a @placeholder context .
+110000,,web,asyncfileupload -- async file-upload is the process of asynchronously uploading files from a @placeholder page .
+000101,,emacs,ido -- ido provides a very convenient way to find files and switch buffers in @placeholder .
+000101,,emacs,emacsclient -- emacsclient is a program which allows the user to connect to the @placeholder server .
+001001,,dom,angular-directive -- at a high level directives are markers on a dom element such as an attribute element name comment or css class that tell angularjs s html compiler compile to attach a specified behavior to that dom element or even transform the @placeholder element and its children .
+011100,,android,android-camera2 -- the android.hardware.camera2 package provides an interface to individual camera devices connected to an @placeholder device .
+001000,,oauth,oauth-2 .0 -- oauth open authorization is an open protocol framework to allow secure api authorization in a simple and standardized way for desktop mobile and web applications.oauth 2.0 is the second version of the @placeholder protocol .
+001010,,python,rope -- rope is a python refactoring library that is useful for renaming or restructuring @placeholder classes methods variables constants .
+110100,,web,plack -- plack is a perl-module and toolkit that contains middleware helpers and adapters to @placeholder servers .
+110000,,web,jquery-mobile -- jquery-mobile is a touch-optimized @placeholder framework for smartphones and tablets .
+000110,,python,sublime-anaconda -- the anaconda plugin for sublime text 3 completely unrelated to the anaconda @placeholder distribution provides many ide-like features for programming in python .
+001000,,xpath,xpath-2 .0 -- use this tag for questions specific to xml path language @placeholder version 2.0 .
+110111,,java,jdepend -- jdepend is a tool that traverses java class file directories and generates software package metrics most importantly dependency cycle detection and distance from the main sequence to measure the design quality for @placeholder packages .
+001101,,xml,openxml -- questions regarding reading and writing of microsoft office open xml files either through direct manipulation of the @placeholder files contained in a zip package or through the microsoft office open xml sdk .
+000100,,delphi,glscene -- glscene is an opengl based 3d library for @placeholder .
+001100,,javascript,datajs -- datajs is a cross-browser @placeholder library that enables data-centric web-applications by leveraging modern protocols such as json and odata and html5-enabled browser features .
+111101,,web,disqus -- disqus is a global comment system that improves discussion on websites and connects conversations across the @placeholder .
+011110,,open-source,hippocms -- hippo cms is a java based @placeholder cms .
+100000,,s,tabwidget -- android displays a list of tab labels representing each page in the parent @placeholder tab collection .
+000101,,node.js,nodebb -- forum software built on @placeholder redis and socket.io .
+001001,,development-environment,xcode4 .1 -- the july 2011 release of xcode apple s integrated @placeholder ide for for its mac os x and ios platforms .
+000111,,css,cssnext -- cssnext is a plugin for postcss that modernizes @placeholder syntax .
+000100,,algorithm,bankers-algorithm -- it s a resource allocation and deadlock avoidance @placeholder .
+110000,,s,mkannotationview -- mkannotationview is part of apple @placeholder map kit framework for developing ios applications .
+000010,,web,jahia -- jahia is a wcm with a user-interface built using google @placeholder toolkit and stores its content using the jcr api default implementation apache jackrabbit .
+110111,,java,jarjar -- jar jar links http : code.google.com p jarjar is a utility that makes it easy to repackage @placeholder libraries and embed them into your own distribution .
+000001,,android,bitrise -- bitrise is a ci cd platform for mobile development ios @placeholder xamarin .
+000100,,api,overpass-api -- the overpass-api or osm3s is a read-only @placeholder that serves up custom selected parts of the openstreeetmap map data .
+000101,,erlang,jiffy -- a json parser for @placeholder .
+110100,,java,guice -- guice is a lightweight dependency-injection framework for @placeholder .
+010101,,web,googlebot -- googlebot is google s @placeholder crawling bot which discovers new and updated pages documents from the web to build a searchable index for the google-search engine .
+001100,,s,gis -- a geographic information system gis captures stores analyzes manages and presents data that are linked to location @placeholder .
+000110,,c++,putchar -- anything related to c or c++ - standard-library functions putchar c or std : : putchar @placeholder .
+010000,,java,avian -- avian is a lightweight @placeholder virtual-machine jvm and class-library designed to provide a useful subset of java s features suitable for building self-contained applications .
+110111,,database,database-schema -- a description of the structure of the @placeholder - including the structure of the tables columns constraints views etc etc . . .that make up the database.normally defined in text generally sql-in an rdbs the schema describes the complete blueprint for the database defining everything about the database except that data itself .
+000001,,http,webmock -- library for stubbing and setting expectations on @placeholder requests in ruby .
+000100,,clojure,leiningen -- leiningen is a build-automation and dependency-management tool for @placeholder projects .
+001111,,android,android-syncadapter -- an android-service that synchronizes data between an @placeholder device and a server .
+000111,,asp.net,collapsiblepanelextender -- the collapsiblepanelextender is part of the ajax control toolkit for @placeholder .
+001101,,oracle,occi -- oracle c++ call interface occi is a high-performance and comprehensive api to access the @placeholder database .
+001100,,javascript,bootbox -- bootbox.js is a small @placeholder library which allows you to create programmatic dialog boxes using bootstrap modals .
+001101,,solr,solarium -- solarium is an open-source @placeholder client library and query-builder for php applications .
+000010,,synchronization,synchronization -- synchronization refers to using controls to maintain a coherent representation either a group of processes running the same program process synchronization or representations of data data @placeholder .
+000101,,algorithm,rabin-karp -- the rabin-karp string-matching algorithm is a string-matching @placeholder that employs a rolling hash-function to speed up the search .
+010111,,python,colorama -- simple cross-platform colored terminal text in @placeholder .
+110000,,java,smooks -- smooks is an extensible framework for building applications for processing xml and non xml data csv edi java etc using @placeholder .
+000101,,user,lwuit-textarea -- an optionally multi-line editable region that can display text and allow a @placeholder to edit it .
+000101,,.net,asna-visual-rpg -- asna s visual rpg is a first class .net citizen that produces verifiable @placeholder assemblies .
+000001,,server,apache-traffic-server -- apache-traffic-server software is a fast scalable and extensible http-1 .1 compliant caching proxy @placeholder .
+110111,,api,jsr257 -- jsr 257 : contactless communication @placeholder java .
+110000,,s,lcov -- lcov is a graphical front-end for gcc @placeholder coverage testing tool gcov .
+110000,,web,google-adwords -- google-adwords is an online advertising service that enables advertisers to compete to display brief advertising copy to web users based in part on keywords predefined by the advertisers that might link the copy to the content of @placeholder pages shown to users .
+111011,,web,bzt -- bzt blazemeter is a program like jmeter that is used to automate @placeholder server load-testing by generating a load of multiple users making simultaneous http requests .
+001000,,perl,devel-cover -- devel : : cover - code-coverage metrics for @placeholder .
+000101,,wordpress,multisite -- the wordpress blog engine has a resource called multisite which allow you to have multiples websites in a single @placeholder instance .
+011000,,java,fmj -- fmj is an open-source project with the goal of providing an alternative to @placeholder media framework jmf while remaining api-compatible with jmf .
+001101,,sql,gorp -- gorp is a package that provides a simple way to marshal go structs to and from @placeholder databases .
+000111,,audio,lame -- lame is a high quality mpeg @placeholder layer iii mp3 encoder licensed under the lgpl .
+110111,,web,backstop.js -- backstopjs automates css regression-testing of your responsive @placeholder ui by comparing dom screenshots at various view port sizes .
+100000,,xml,xsd -- xsd generally refers to a document written in the w3c @placeholder schema format containing a description of a particular type of xml document .
+001100,,sql-server,ssms -- microsoft sql-server management studio is a graphical tool for configuring managing and administering all components within microsoft @placeholder .
+110000,,s,xcode6 .1 -- related to the new version of the apple @placeholder ide xcode 6.1 .
+111110,,ios,uiview -- uiview is a class in the uikit framework of @placeholder defines a rectangular area on the screen and the interfaces for managing the content in that area .
+001101,,opengl,glsl -- the opengl shading language glsl is the standard programming language for shaders in @placeholder .
+000101,,asp.net,sqlmembershipprovider -- the sqlmembershipprovider class is used by the membership and membershipuser classes to provide membership services for an @placeholder application using a sql-server database .
+110000,,web,urllib -- python-module providing a high-level interface for fetching data across the world wide @placeholder .
+001000,,java,portletbridge -- portlet bridge acts as an translation engine between portal environment and @placeholder web framework to allow portlet development in desired java framework and not in portal technology itself .
+001111,,eclipse,tycho -- tycho is a maven-extension for building eclipse artifacts : @placeholder plug-ins osgi bundles features p2 repositories and rcp applications eclipse distributions .
+000100,,ruby,site-prism -- siteprism is a simple clean and semantic dsl for describing your site using the page object-model pattern for use with @placeholder capybara in automated acceptance-testing .
+000100,,pdf,icepdf -- questions related to icepdf an open-source java pdf engine for viewing printing and manipulating @placeholder documents .
+110111,,web,rss -- really simple syndication rss is a family of @placeholder feed formats used to publish frequently updated works such as blog entries news headlines audio and video in a standardized format .
+001101,,json,jsoncpp -- jsoncpp is an open-source @placeholder reader and writer for c++ .
+110100,,s,ef-code-first -- ef code-first is a way of using microsoft @placeholder entity-framework with poco classes as opposed to model-first or db-first .
+001110,,hadoop,hortonworks-data-platform -- use for questions related to the hortonworks-data-platform hdp an open-source apache @placeholder data platform .
+000100,,java,struts2 -- apache struts 2 is an extensible framework based on model-view-controller mvc architecture for creating enterprise-ready @placeholder web-applications .
+000101,,python,matplotlib -- matplotlib is a plotting library for @placeholder which may be used interactively or embedded in stand-alone guis .
+110010,,web,lungojs -- lungojs is a framework powered by html5 css3 and javascript for creating mobile @placeholder apps.the applications created with it works on all popular platforms ios android blackberry and webos .
+100000,,s,quaqua -- quaqua is a java library that provides enhancements to apple @placeholder aqua look-and-feel .
+110100,,web,cookies -- an http cookie is a piece of data stored by the user s @placeholder browser .
+000101,,web-applications,s arp - architecture -- an architectural foundation for rapidly building maintainable @placeholder leveraging the asp.net-mvc framework with nhibernate .
+000100,,jquery,printthis -- a printing plug-in for @placeholder .
+100001,,javascript,phpstorm -- jetbrains phpstorm is a commercial ide for php built on jetbrains intellij idea.phpstorm provides an intelligent editor for php html css and @placeholder with refactoring and on-the-fly code-analysis .
+000010,,web,textile -- textile is a lightweight markup language originally developed by dean allen and billed as a humane @placeholder text generator .
+001011,,asp.net,sitecore7 .2 -- sitecore is a web content-management-system cms built on microsoft @placeholder .
+000110,,perl,activeperl -- activeperl is a distribution of @placeholder from activestate formerly part of sophos for windows mac os x linux solaris aix and hp-ux .
+010101,,java,openxava -- openxava is an ajax @placeholder framework for rapid development of enterprise applications .
+001000,,server,arr -- application request routing arr helps administrators optimize resource utilization for application servers to reduce management costs for web @placeholder farms and shared-hosting environments .
+000100,,xml,xml-documentation -- xml-documentation is the way to generate automatic documentation from comments inside the code to an @placeholder formatted file that can be shown with any method for e.g .
+000001,,csv,csvkit -- use this tag for questions related to use of the cvskit utilities suite for converting to and working with @placeholder format files .
+001101,,apache-spark,spark-graphx -- graphx is a component in @placeholder for graphs and graph-parallel computation .
+000101,,clojure,clojars -- clojars is a community maintained repository for open-source @placeholder libraries .
+110100,,web,pushstate -- the html5-history api allows a @placeholder page to manipulate the contents of the history stack in order to dynamically update the url and respond to the back button .
+010000,,web,openerp -- odoo formerly openerp is a suite of @placeholder based open-source business apps .
+011111,,python,python-2 .1 -- for issues relating to development in @placeholder version 2.1 .
+000001,,xcode,xcode4 .1 -- the july 2011 release of @placeholder apple s integrated development-environment ide for for its mac os x and ios platforms .
+001001,,mozilla,firefox-9 -- version 9 of the @placeholder firefox browser .
+000101,,fortran,cray-pointers -- cray-pointers are a common non-standard extension to @placeholder before introducing standard pointers in fortran 90 .
+100000,,s,class -- a template for creating new objects that describes the common state s and behavior @placeholder .
+000001,,web-applications,front-controller -- the front-controller pattern provides a centralized entry-point for handling requests in @placeholder .
+001010,,smalltalk,squeak -- squeak is a modern open-source implementation of the @placeholder language with a history of being very easy to port across platforms .
+000100,,pdf,wicked-pdf -- wicked-pdf is a pdf-generation plugin for ruby-on-rails using wkhtmltopdf to convert html to @placeholder .
+000010,,jquery,nyromodal -- nyromodal is a highly customizable modal window plugin for @placeholder .
+000101,,authentication,adfs -- active-directory federation services v2 .0 adfs for short is a standards based web single sign-on federated-identity which implements claims based @placeholder across forests .
+110100,,web,arr -- application request routing arr helps administrators optimize resource utilization for application servers to reduce management costs for @placeholder server farms and shared-hosting environments .
+000100,,javascript,duocode -- duocode is a fully-featured c compiler powered by microsoft roslyn and integrated in visual studio.it cross-compiles your c 6.0 code into high-quality readable @placeholder code enabling rapid development of web-applications utilizing the extensive features of the c language the visual-studio ide and the .net framework base-class libraries .
+001101,,apache-spark,apache-spark-ml -- spak ml is a high-level api for building machine-learning pipelines in @placeholder .
+001010,,database,mysql5 -- the mysql software delivers a very fast multi-threaded multi-user and robust sql structured query language @placeholder server .
+000100,,s,rational -- a rational is a number that can be expressed as the ratio of two integers.rational can also refer to ibm @placeholder rational family of products .
+000100,,jquery,jquery-nestable -- nestable is an open-source @placeholder plugin which provides a way to create draggable hierarchical list control .
+110100,,python,pygame -- pygame is a set of @placeholder modules designed for writing video games.use this tag only if you are using the pygame library and not if you have a question about programming a game in python in general .
+001000,,java-ee,weblogic11g -- the 11.x july 2009 release of weblogic server a @placeholder application server suite from oracle .
+001000,,database,mariadb -- mariadb is an open-source @placeholder server that offers drop-in replacement functionality for mysql .
+010000,,server,mariadb -- mariadb is an open-source database @placeholder that offers drop-in replacement functionality for mysql .
+000110,,python,sublime-anaconda -- the anaconda plugin for sublime text 3 completely unrelated to the anaconda python distribution provides many ide-like features for programming in @placeholder .
+110010,,web,tilemill -- tilemill is a tool for cartographers to quickly and easily design maps for the @placeholder using custom data .
+110010,,web,funkload -- funkload is a functional and load @placeholder tester written in python .
+001000,,nfc,ndef -- the nfc data exchange format ndef specification is a common data format for nfc forumdevices and @placeholder forum tags .
+000100,,audio,speex -- speex is an open-source @placeholder compression format designed for speech .
+000011,,embed,google-maps-embed -- the google-maps-embed api lets you add fully functional google-maps or street view panoramas to your website when you don t want to use the javascript api but want an interactive map that the static maps api can t provide.it uses an iframe to embed a call to the embed api.see the official documentation https : developers.google.com maps documentation @placeholder .
+110010,,web,libreplan -- libreplan is a collaborative tool to plan monitor and control projects and has a rich @placeholder interface which provides a desktop alike user-experience .
+011111,,android,samsung-edge -- the samsung galaxy note edge is an @placeholder phablet produced by samsung electronics .
+001011,,state-machines,boost-statechart -- boost.statechart is a c++ library allowing you to easily and quickly define @placeholder .
+110010,,web,routerjs -- routerjs is a simple router for your ajax @placeholder apps .
+000001,,sql-server,sqlexception -- sqlexception is thrown when ado.net encounters a @placeholder related error .
+001111,,python,beautifulsoup -- beautiful soup is a @placeholder package for parsing html xml .
+001111,,adobe,coldfusion-2016 -- coldfusion is a server-side rapid application development platform from @placeholder .
+110000,,java,jongo -- jongo allows to query in java as in mongo-shell unmarshalling results into @placeholder objects by default with jackson .
+001111,,erlang,otp -- otp is the open-source distribution of erlang and an application server written in @placeholder .
+000101,,deployment,wix4 -- for issues relating to @placeholder using windows-installer xml version 4 .
+001000,,spreadsheet,excel-2016 -- the excel-2016 tag is used for referencing the @placeholder component of the microsoft office 2016 suite released 22 sep 2015 .the version independent tag is excel .
+000001,,html5,modernizr -- modernizr is an open-source javascript library that helps you build the next generation of @placeholder and css3-powered websites .
+001101,,xml,openxml -- questions regarding reading and writing of microsoft office open xml files either through direct manipulation of the xml files contained in a zip package or through the microsoft office open @placeholder sdk .
+110000,,s,minix -- is a unix-like computer operating-system based on a microkernel architecture created by andrew @placeholder .tanenbaum for educational purposes .
+110100,,s,monoids -- a monoid is a set that is closed under an associative binary operation and has an identity element i such that for all a @placeholder ia ai a .
+110101,,java,castor-jdo -- castor-jdo is an open-source data-binding framework for @placeholder tm .
+001100,,.net,pos-for - .net -- pos-for - .net refers to point of service pos class libraries by microsoft that allows applications developed in the @placeholder framework to integrate with point-of-sale peripheral devices .
+110000,,api,opengl-es -- subset of the opengl 3d graphics @placeholder designed for embedded devices such as mobile-phones .
+100111,,qt,qwidget -- qwidget is key part of the @placeholder c++ classes .
+110000,,java,jasper-reports -- jasperreports an open-source java reporting tool can be used in all @placeholder applications from desktop to web-applications .
+111100,,s,bluebutton -- blue button is the symbol for a patient @placeholder access to their own data .
+001011,,interface,mscapi -- the cryptographic application programming @placeholder ms-capi is an application programming interface included with microsoft windows operating systems that provides services to enable developers to secure windows-based applications using cryptography .
+000100,,database,korma -- korma is a clojure dsl wrapping common sql @placeholder manipulation functions .
+000001,,android,filepicker.io -- filepicker.io is a full file-management framework which supports web ios and @placeholder platform .
+111100,,java,apache-coccoon -- apache-cocoon or simply cocoon is a @placeholder web application framework built around pipeline separation-of-concerns and component-based web development .
+100010,,.net,task -- a task is an abstraction that is used to work with concurrency it can denote operation that should be executed concurrently with the rest of a program.a task is a concurrent thread of execution in ada and represents an asynchronous operation in @placeholder also it corresponds to threads in java .
+001000,,html,meta -- meta elements are the @placeholder or xhtml meta element used to provide structured metadata about a web page .
+000001,,iphone,apple-m7 -- apple-m7 is a motion co-processor used by apple inc .in the @placeholder 5s ipad air and ipad-mini 2nd generation .
+000101,,wcf,weboperationcontext -- the weboperationcontext can be used in @placeholder services to access properties of web requests and responses .
+100000,,s,thread-priority -- thread-priority signifies a thread @placeholder importance and enables variety in scheduling threads .
+000100,,android,android-database -- general programmatic usage of databases on @placeholder .
+110110,,web,asp-classic -- active server pages asp also known as classic asp or asp-classic was microsoft s first server-side script-engine for dynamically-generated @placeholder pages .
+001111,,eclipse,tycho -- tycho is a maven-extension for building eclipse artifacts : eclipse plug-ins osgi bundles features p2 repositories and rcp applications @placeholder distributions .
+110000,,s,vim-airline -- lean mean status tabline for vim that @placeholder light as air .
+000001,,maven,parent-pom -- parent-pom is a parent configuration file in @placeholder pom inheritance .
+111101,,android,android-5 .0 - lollipop -- android lollipop formerly known as just @placeholder l was first shown at google i o 2014 .
+100101,,php,phpcodesniffer -- php codesniffer is a php pear package that can be used to tokenise @placeholder javascript and css files and to detect violations of a defined set of coding standards .
+000101,,apache-spark,apache-spark-mllib -- mllib is a machine-learning library for @placeholder .
+100101,,user,spinner -- spinner is a widget that allows the @placeholder to select an item from a group like a dropdown list .
+001100,,ios,vimage -- vimage is a library of image-processing routines provided by apple in os x and @placeholder .
+000101,,fortran,cray-pointers -- cray-pointers are a common non-standard extension to fortran before introducing standard pointers in @placeholder 90 .
+001110,,drupal,drupal-roles -- roles allow defining what a @placeholder user can do by assigning the relevant permissions to a role e.g .
+000100,,javascript,jsbn -- the jsbn library is a fast portable implementation of large-number math in pure @placeholder enabling public-key crypto and other applications on desktop and mobile browsers .
+000010,,ide,xcode4 .1 -- the july 2011 release of xcode apple s integrated development-environment @placeholder for for its mac os x and ios platforms .
+110000,,s,go-imagick -- go binding to imagemagick @placeholder magickwand c api .
+000100,,ruby,trollop -- trollop is a commandline option parser for @placeholder .
+110000,,java,smooks -- smooks is an extensible framework for building applications for processing xml and non xml data csv edi @placeholder etc using java .
+000100,,excel,excel-2016 -- the excel-2016 tag is used for referencing the spreadsheet component of the microsoft office 2016 suite released 22 sep 2015 .the version independent tag is @placeholder .
+110000,,web,simile -- a collection of open-source data-visualization @placeholder widgets that grew out of semantic-web research at mit .
+001000,,android,android-navigationview -- one of the features of @placeholder design support library which is bringing a number of important material-design components to all developers and to all android 2.1 or higher devices.navigation drawer enables your app having easy ux to navigate particularly for first time users.navigationview provides the framework for developers easier to establish navigation-drawer ui .
+001100,,javascript,formatjs -- formatjs is a modular collection of @placeholder libraries for internationalization that are focused on formatting numbers dates and strings for displaying to people .
+010101,,web,googlebot -- googlebot is google s web crawling bot which discovers new and updated pages documents from the @placeholder to build a searchable index for the google-search engine .
+001100,,xml,smooks -- smooks is an extensible framework for building applications for processing xml and non @placeholder data csv edi java etc using java .
+000101,,scala,sjson -- scala json with capabilities for @placeholder object serialization .
+110101,,java,apache-commons-dbutils -- apache-commons-dbutils is a toolkit that simplifies the usage of the @placeholder database connectivity jdbc api .
+000001,,fonts,typekit -- typekit is an adobe service which allows embedding @placeholder into online and offline documents .
+110000,,s,cpplint -- cpplint is an open-source lint-like tool developed by google designed to ensure that c++ code conforms to google @placeholder coding-style guides .
+110111,,server,ibmhttpserver -- ibm http server is a full-featured apache-based web server that is included with other products such as ibm websphere application @placeholder at no charge .
+001100,,android,cwac-endless -- cwac-endless descripes an endlessadapter solution for @placeholder listviews developed by commonsware .
+000100,,javascript,jsctypes -- js-ctypes is a foreign-function library for privileged @placeholder in mozilla based applications such as firefox thunderbird or seamonkey .
+000110,,templates,dwoo -- dwoo is a php5 template-engine which is almost fully compatible with smarty @placeholder and plugins but is written from scratch for php5 and adds many features .
+000011,,audio,audiotrack -- audiotrack class in standard android api for playing back raw @placeholder .
+000001,,.net,duocode -- duocode is a fully-featured c compiler powered by microsoft roslyn and integrated in visual studio.it cross-compiles your c 6.0 code into high-quality readable javascript code enabling rapid development of web-applications utilizing the extensive features of the c language the visual-studio ide and the @placeholder framework base-class libraries .
+111000,,s,dbexpress -- dbexpress is embarcadero s data driver architecture replacing the deprecated borland @placeholder bde .
+110010,,s,nsapplication -- nsapplication is the central class in apple @placeholder appkit framework .
+000010,,wikipedia,mediawiki -- mediawiki is a free software wiki package written in php originally for use on @placeholder .
+000100,,ios,cgcontextdrawimage -- cgcontextdrawimage is available in osx and @placeholder which helps to draws an image into a graphics context .
+010100,,java,mockito -- mockito is a mocking framework for @placeholder .
+000100,,algorithm,hungarian-algorithm -- the hungarian-algorithm is a combinatorial optimization @placeholder that solves the assignment problem that of finding a maximum weight matching in a bipartite graph in polynomial time .
+110101,,java,sqlj -- sqlj is an outdated iso standard for embedding sql instructions in @placeholder programs .
+000010,,toolkit,dita-ot -- questions about the dita open @placeholder an open-source reference implementation of transformations from dita xml to various end-user deliverables including html and pdf .
+000101,,django,django-adaptors -- django-adaptors is a tool which allow you to transform easily a csv xml file into a python object or a @placeholder model instance .
+001000,,emacs,haskell-mode -- the haskell-mode package is a set of major modes for @placeholder for writing haskell code and working with haskell projects .
+001111,,erlang,otp -- otp is the open-source distribution of @placeholder and an application server written in erlang .
+001000,,open-source,openmrs -- the world s leading @placeholder enterprise electronic medical record system platform .
+000011,,junit,errorcollector -- the errorcollector rule of @placeholder .
+000001,,number-theory,bernoulli-numbers -- in mathematics the bernoulli-numbers bn are a sequence of rational-numbers with deep connections to @placeholder .
+000100,,server,xvfb -- xvfb x virtual framebuffer is an x11 @placeholder that can run graphic applications without a physical screen .
+010000,,java,android-gson -- gson a java serialization library to convert @placeholder objects into json and back to fetch and parse json into java models for android .
+001111,,solr,dih -- the dataimporthandler is a solr contrib that provides a configuration driven way to import this data into @placeholder in both full builds and using incremental delta imports .
+001001,,linux,kvm -- kvm for kernel-based virtual-machine is a full virtualization solution for @placeholder on x86 hardware containing virtualization extensions intel vt or amd-v .
+000010,,django,cartridge -- cartridge is a shopping cart application built using the @placeholder framework.cartridge also extends the mezzanine content-management platform .
+001000,,video,audio-video-sync -- questions related to synchronization between audio and video during creation transmission reception and playback of content with both audio and @placeholder .
+100000,,s,environment-modules -- the tcl environment-modules is an experimental version of the environment-modules package which provides for the dynamic modification of a user @placeholder environment via modulefiles .
+000111,,wysiwyg,ckeditor -- ckeditor is a javascript based @placeholder editor created for use within web pages .
+110010,,web,web2py -- web2py is a open-source full-stack @placeholder framework written in python-2.x .
+100000,,s,getwritabledatabase -- getwritabledatabase is one of the methods of the android @placeholder sqliteopenhelper class which returns a reference to a sqlitedatabase .
+101110,,javascript,qunit -- qunit is a javascript unit-testing framework used by the jquery project to test its code and plugins but capable of testing any generic @placeholder both client - and server-side code .
+000100,,api,google-maps-embed -- the google-maps-embed api lets you add fully functional google-maps or street view panoramas to your website when you don t want to use the javascript api but want an interactive map that the static maps @placeholder can t provide.it uses an iframe to embed a call to the embed api.see the official documentation https : developers.google.com maps documentation embed .
+001000,,api,facepy -- facepy makes it really easy to interact with facebook s graph @placeholder using python .
+000010,,c++,jsoncpp -- jsoncpp is an open-source json reader and writer for @placeholder .
+110100,,s,rust-compiler-plugin -- rust compiler plugins are user-provided libraries that extend the compiler @placeholder behavior with new syntax extensions compile-time and lint checks etc .
+010100,,ruby,ruby-on-rails-3 -- ruby-on-rails is an open-source web development framework written in @placeholder .
+000011,,fortran,openacc -- the openacc application program interface describes a collection of compiler-directives to specify loops and regions of code in standard c c++ and @placeholder to be offloaded from a host cpu to an attached accelerator providing portability across operating systems host cpus and accelerators .
+000010,,postgresql,plpgsql -- pl pgsql is the default procedural language for @placeholder .
+110000,,java,xcore -- xcore is an extended concrete syntax for ecore that in combination with xbase transforms it into a fully fledged programming language with high quality tools reminiscent of the @placeholder development tools .
+001000,,entity-framework,ef-code-first -- ef code-first is a way of using microsoft s @placeholder with poco classes as opposed to model-first or db-first .
+111100,,java,jzy3d -- jzy3d is an open-source @placeholder library that allows you to easily draw 3d scientific data .
+000101,,docker,docker-toolbox -- the docker-toolbox is an installer to quickly and easily install and setup a @placeholder environment on your computer .
+000101,,delphi,graphicex -- graphicex is a free @placeholder library to load various image-formats png gif tiff tga bmp dib and many more including some rather seldomly used types like sgi cut rla pcd and others .
+001101,,android,crittercism -- crittercism is a venture-funded startup company that has built a scalable crash reporting and customer support sdk for ios @placeholder and windowsphone 8 apps .
+111101,,java,jpa-2 .0 -- this tag is for questions about the version 2.0 of the @placeholder persistence api.the focus of jpa-2 .0 was to address features that were present in some of the popular orm vendors but could not gain consensus approval for jpa-1 .0 .
+000100,,server,terminal-server -- a terminal-server also referred to as a serial server or console server network access @placeholder enables organizations to connect devices with an rs-232 rs-422 or rs-485 serial interface to a local area network lan .
+000010,,synchronization,synchronization -- synchronization refers to using controls to maintain a coherent representation either a group of processes running the same program process @placeholder or representations of data data synchronization .
+110000,,s,gnu -- this tag is for programming questions related to software and tools provided by the gnu gnu @placeholder not unix project .
+000110,,pdf,reportlab -- a library for generating @placeholder in python .
+001111,,pdf,pdfminer -- a python-based tool for extracting information from @placeholder documents .
+001000,,.net,.net-attributes -- the tag .net-attributes describes anything related to using or creating attributes in @placeholder source code .
+010000,,web,google-earth-plugin -- the google-earth plug-in and its javascript api let you embed google-earth a true 3d digital globe into your @placeholder pages for viewing on windows or mac devices.the google-earth api has been deprecated as of december 12th 2014 .
+000001,,facebook,social-authentication -- a form of single sign-on using existing login information from a social-networking service such as @placeholder twitter or google + to sign into a third party website .
+101111,,api,facebook-ads-api -- the facebook-ads-api aka marketing @placeholder is used by application developers to create manage and measure ad campaigns that run on facebook .
+000101,,fortran,fortran90 -- the standardized successor to @placeholder 77 released as an iso standard in 1991 and an ansi standard in 1992 .
+001000,,quickbooks,qbwc -- the quickbooks web connector provides an api for interfacing web-based applications with desktop intuit @placeholder software .
+000111,,scala,scala-2 .8 -- version 2.8 of the @placeholder language for the jvm .
+010111,,qt,qdockwidget -- qdockwidget is a class from the @placeholder framework which represents a widget which can be docked inside a qmainwindow or floated as a top-level window in the desktop .
+000011,,html,hide -- methods for hiding visual components particularly with regard to @placeholder .
+000010,,wordpress,wordpress-login -- user login functionality in @placeholder .
+110111,,database,database-schema -- a description of the structure of the database - including the structure of the tables columns constraints views etc etc . . .that make up the database.normally defined in text generally sql-in an rdbs the schema describes the complete blueprint for the @placeholder defining everything about the database except that data itself .
+010000,,web,pubnub -- pubnub offers a publish-subscribe api for realtime data-stream messaging for iot mobile and @placeholder .
+001100,,django,django-settings -- a django-settings file is a python-module with module-level variables that contains all the configuration of your @placeholder installation such as databases installed apps and media and static location to name a few .
+001111,,django,django-taggit -- django-taggit is a reusable @placeholder application designed to making adding tagging to your project easy and fun .
+000011,,uikit,touchesended -- use this tag for questions related to touchesended : withevent a uiresponder event-handling method in the @placeholder framework and monotouch.uikit namespace .
+000100,,javascript,modernizr -- modernizr is an open-source @placeholder library that helps you build the next generation of html5 and css3-powered websites .
+001011,,mobile-devices,sql-server-ce-4 -- microsoft sql-server compact version 4 is a sql-server embedded database for building standalone and occasionally connected applications for @placeholder desktops and web clients .
